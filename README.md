@@ -5,6 +5,7 @@ AIghts is an open-source project that combines the card game Crazy Eights with A
 ## Table of Contents
 
 1. [Introduction](docs/Introduction.md)
+2. [Project requirements](docs/Project_Requirements.md)
 2. [Game Rules](docs/GameRules.md)
 3. [Architecture](docs/Architecture.md)
 4. [AI Agents](docs/AI_Agents.md)
